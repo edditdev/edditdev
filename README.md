@@ -23,4 +23,6 @@
 
 ### active projects
 - email bomber v2 [release/source]
-- system monitor [release]
+- chat-gpt bot vb.net [release/source]
+
+## Old account termed
