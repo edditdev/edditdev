@@ -19,5 +19,5 @@
 </div>
 
 ### active projects
-• email bomber v2 [release/source]
-• system monitor [release]
+- email bomber v2 [release/source]
+- system monitor [release]
