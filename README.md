@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://i.imgur.com/y1ddS4Y.gif" alt="Obrazek" width="900" height="200">
 </div>
+
 <div align="center">
   <h2> eddit services tekst</h2>
 </div>
