@@ -9,6 +9,6 @@
 </div>
 
 <div align="left">
-  <img src="https://i.imgur.com/p9vrMmK.png" alt="Obrazek" width="64" height="64">
+  <img src="https://i.imgur.com/p9vrMmK.png" alt="Obrazek" width="24" height="24">
   <a>eddit</a>
 </div>
