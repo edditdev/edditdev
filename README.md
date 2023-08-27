@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h2> eddit services tekst</h2>
+  <h2> about me </h2>
 </div>
 
 <div align="center">
