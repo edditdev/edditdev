@@ -18,6 +18,9 @@
   <a>owner / developer in flexxcheats dsc.gg/flexxcheats</a>
 </div>
 
+### Discord Invite
+<h>https://discord.gg/wrDn5atn8T - Email bomber community </h>
+
 ### active projects
 - email bomber v2 [release/source]
 - system monitor [release]
