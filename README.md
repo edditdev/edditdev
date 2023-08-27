@@ -10,5 +10,5 @@
 
 <div align="left">
   <img src="https://i.imgur.com/p9vrMmK.png" alt="Obrazek" width="64" height="64">
-  <p align="left">eddit</p>
+  <p>eddit</p>
 </div>
