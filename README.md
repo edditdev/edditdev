@@ -1,18 +1,6 @@
 
-<style>
-  body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 500vh;
-    margin: 0;
-  }
-  img {
-    max-width: 100%; /* Maksymalna szerokość obrazka */
-    height: auto; /* Zachowanie proporcji */
-  }
-</style>
-</head>
+
 <body>
-  <img src="[URL_OBRAZKA](https://i.imgur.com/y1ddS4Y.gif)https://i.imgur.com/y1ddS4Y.gif" alt="Obrazek">
-</body>
+<div style="text-align: center;">
+    <img src="https://i.imgur.com/y1ddS4Y.gif" alt="Obrazek" width="500" height="200">
+</div>
