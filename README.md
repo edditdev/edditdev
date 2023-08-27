@@ -12,3 +12,9 @@
   <img src="https://i.imgur.com/p9vrMmK.png" alt="Obrazek" width="24" height="24">
   <a>eddit</a>
 </div>
+
+<div align="left">
+  <img src="https://i.imgur.com/DrCbamj.png" alt="Obrazek" width="34" height="24">
+  <a>owner / developer in flexxcheats dsc.gg/flexxcheats</a>
+</div>
+
