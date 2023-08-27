@@ -14,7 +14,7 @@
 </div>
 
 <div align="left">
-  <img src="https://i.imgur.com/DrCbamj.png" alt="Obrazek" width="34" height="64">
+  <img src="https://i.imgur.com/DrCbamj.png" alt="Obrazek" width="64" height="24">
   <a>owner / developer in flexxcheats dsc.gg/flexxcheats</a>
 </div>
 
