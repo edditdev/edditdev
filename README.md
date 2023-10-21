@@ -19,9 +19,10 @@
 </div>
 
 ### Discord Invite
-<h>https://discord.gg/wrDn5atn8T - Email bomber community </h>
+<h>https://dsc.gg/flexxcheats - FLEXXCHEATS Discord community. </h>
 
 ### active projects
+- E-DDoS [release/source]
 - email bomber v2 [release/source]
 - chat-gpt bot vb.net [release/source]
 
