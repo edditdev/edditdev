@@ -14,12 +14,15 @@
 </div>
 
 <div align="left">
-  ## <a>owner / developer in ventecheat dc.gg/vente</a>
-  ### <a>https://edditdev.com</a>
+  - <h> owner / developer in ventecheat dc.gg/vente</h>
+</div>
+
+<div align="left">
+  - <h> https://edditdev.com </h>
 </div>
 
 ### Discord Invite
-<h>https:dc.gg/vente - VENTE Discord community. </h>
+<h>https://dc.gg/vente - VENTE Discord community. </h>
 
 ### active projects
 - E-DDoS [release/source]
