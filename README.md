@@ -14,16 +14,14 @@
 </div>
 
 <div align="left">
-  <img src="https://i.imgur.com/DrCbamj.png" alt="Obrazek" width="64" height="24">
-  <a>owner / developer in flexxcheats dsc.gg/flexxcheats</a>
+  <a>owner / developer in ventecheat dc.gg/vente</a>
+  <a>https://edditdev.com</a>
 </div>
 
 ### Discord Invite
-<h>https://dsc.gg/flexxcheats - FLEXXCHEATS Discord community. </h>
+<h>https:dc.gg/vente - VENTE Discord community. </h>
 
 ### active projects
 - E-DDoS [release/source]
-- email bomber v2 [release/source]
-- chat-gpt bot vb.net [release/source]
 
-## Old account termed
+## OLD ACCOUNT TERMED.
