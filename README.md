@@ -1,8 +1,6 @@
 
 
-<div align="center">
-  <img src="" alt="Obrazek" width="900" height="200">
-</div>
+
 
 <div align="center">
   <h2> about me </h2>
