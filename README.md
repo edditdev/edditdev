@@ -14,8 +14,8 @@
 </div>
 
 <div align="left">
-  <a>owner / developer in ventecheat dc.gg/vente</a>
-  <a>https://edditdev.com</a>
+  ## <a>owner / developer in ventecheat dc.gg/vente</a>
+  ### <a>https://edditdev.com</a>
 </div>
 
 ### Discord Invite
