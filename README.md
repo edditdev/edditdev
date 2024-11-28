@@ -11,11 +11,10 @@
    <center> <img src="https://i.imgur.com/SXeky82.gif" alt="Obrazek" width="1012" height="604"> </center>
 
 </div>
-
 <div align="left">
   - <h4>Join to our community! https://discord.gg/y3XxfqmmqZ</h4>
 </div>
 
 <div align="left">
-  - <h4> Website https://edditdev.com | https://veety.edditdev.com/</h4>
+  - <h4> Website https://eddit.me | https://veety.xyz/</h4>
 </div>
