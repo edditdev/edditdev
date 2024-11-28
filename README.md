@@ -5,10 +5,10 @@
 </div>
 
 <div align="center">
- <center> <img src="https://i.imgur.com/atB4xWN.png" alt="Obrazek" width="112" height="104"> </center>
+ <center> <img src="https://i.imgur.com/EQTT215.png" alt="Obrazek" width="142" height="134"> </center>
   <h1>V E E T Y</h1>
   <h2>🐀 NO PORT FORWARDING RAT 🐀</h2>
-   <center> <img src="https://i.imgur.com/6hHqE7j.gif" alt="Obrazek" width="1012" height="604"> </center>
+   <center> <img src="https://i.imgur.com/SXeky82.gif" alt="Obrazek" width="1012" height="604"> </center>
 
 </div>
 
