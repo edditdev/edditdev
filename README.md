@@ -13,5 +13,5 @@ web: eddit.me
 ```
 
 <p>
-  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=edditdev&theme=react"></a>
+  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=edditdev&theme=github-compact"></a>
 </p>
